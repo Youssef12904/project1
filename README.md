@@ -1,1 +1,4 @@
-# project1
+# project objectives
+# technology stack
+# setup instructions 
+# architecture overview
